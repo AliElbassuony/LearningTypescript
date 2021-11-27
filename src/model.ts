@@ -1,5 +1,4 @@
 //interface
-
 interface IsPerson {
     name: string;
     age: number;

@@ -1,4 +1,3 @@
-//interface
 const me = {
     name: 'Ali',
     age: 19,
